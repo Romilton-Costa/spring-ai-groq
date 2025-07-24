@@ -1,1 +1,1 @@
-Projeto de chat assistennte de ia para desenvolvimento de sistemas
+Projeto de chat assistente de ia para desenvolvimento de sistemas
